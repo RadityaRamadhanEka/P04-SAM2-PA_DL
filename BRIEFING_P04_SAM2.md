@@ -106,16 +106,16 @@ Simpan hasil mentah setiap objek ke CSV (`results_test.csv`) agar semua analisis
 
 ---
 
-## 4. Pembagian Kerja Tim (Usulan Awal — 3 Anggota)
+## 4. Pembagian Kerja Tim (Disepakati — 3 Anggota)
 
-Pembagian ini dirancang agar seimbang di seluruh 3 tahap dan memudahkan setiap anggota menjawab pertanyaan kontribusi saat presentasi akhir:
+Pembagian ini sudah disepakati tim (**Raditya** memegang naskah/repo/pipeline evaluasi COCO, **Gibran** memegang Google Colab & implementasi SAM 2, dan **Sulthon** memegang review paper/literatur & analisis) agar seimbang di seluruh 3 tahap dan memudahkan setiap anggota menjelaskan kontribusinya saat presentasi akhir:
 
-| Tahap | **Raditya** (`245150207111054`) | **Gibran** (`245150207111008`) | **Sulthon** (`245150207111103`) |
+| Tahap | **Raditya** (`245150207111054`)<br>*Lead Naskah, Repo & Pipeline COCO* | **Gibran** (`245150207111008`)<br>*Google Colab & Teknis SAM 2* | **Sulthon** (`245150207111103`)<br>*Review Paper, Literatur & Analisis* |
 | :--- | :--- | :--- | :--- |
-| **Tahap 1** *(1 Des)* | Merangkum rumusan masalah, tujuan, & hipotesis + finalisasi format naskah Pendahuluan. | Melakukan *smoke test* Colab (`sam2_hiera_tiny.pt` FP32) & mencatat spesifikasi environment awal. | Meringkas paper asli SAM 2 & BALD-SAM untuk konteks Pendahuluan + menyusun Daftar Pustaka. |
-| **Tahap 2** *(8 Des)* | Membangun pipeline subset COCO (split Val/Test deterministik + simpan `p1` ke JSON) & integrasi laporan Tahap 2. | Mengimplementasikan `baseline_1pt` & modul perbaikan *toggleable* (`proposed_consensus_2pt` + `ablation_bestmask_2pt`) di Colab. | Menjalankan evaluasi awal di data Validasi, menyusun grafik/tabel hasil awal + contoh prototipe validasi. |
-| **Tahap 3** *(15 Des)* | Menjalankan/mengaudit uji final di Test Set (tabel perbandingan, uji berpasangan, biaya komputasi) & menyusun Abstrak + Kesimpulan. | Merapikan kode akhir Colab/repo (perintah sekali jalan, toggle flag, `requirements`/versi) & verifikasi reproduksibilitas. | Membuat visualisasi contoh berhasil & contoh gagal (kedua mask awal salah), serta menulis Pembahasan (termasuk perbandingan BALD-SAM) & keterbatasan. |
-| **Presentasi** | Menjelaskan desain eksperimen, split COCO, hasil uji kuantitatif, & kesimpulan hipotesis. | Mendemokan/menjelaskan alur kode SAM 2, pengaturan FP32 Colab, & modul perbaikan + ablasi. | Menjelaskan analisis kualitatif (berhasil/gagal), perbandingan dengan BALD-SAM, & biaya komputasi. |
+| **Tahap 1** *(1 Des)* | Menyiapkan template paper final + header identitas (`P04`, nama, NIM), menulis Tujuan, Hipotesis, & Ringkasan Rencana Uji, serta finalisasi PDF + submit. | Membuka Colab resmi SAM 2, menjalankan *smoke test* (`sam2_hiera_tiny.pt`, mode FP32 bila GPU T4), mencatat versi library/GPU/commit, & review teknis alur perbaikan. | Mereview paper asli **SAM 2** & pracetak **BALD-SAM**, menulis Latar Belakang Masalah, Urgensi, Keterbatasan SAM 2, serta menyusun Daftar Pustaka. |
+| **Tahap 2** *(8 Des)* | Membangun pipeline subset COCO (split Val/Test deterministik + simpan `p1` ke JSON), integrasi laporan Tahap 2, & submit PDF + tautan repo. | Mengimplementasikan `baseline_1pt` & modul perbaikan *toggleable* (`proposed_consensus_2pt` + `ablation_bestmask_2pt`) di Colab. | Mengevaluasi hasil awal Validasi (IoU & rata-rata titik), verifikasi visual penempatan `p2`, & menyusun ringkasan literatur bagian Metode. |
+| **Tahap 3** *(15 Des)* | Mengaudit/menjalankan uji final di Test Set (tabel perbandingan, selisih berpasangan, biaya komputasi) & menyusun Abstrak + Kesimpulan + submit akhir. | Merapikan kode akhir Colab/repo (perintah sekali jalan, toggle flag, versi pustaka) & verifikasi reproduksibilitas. | Membuat visualisasi contoh berhasil & contoh gagal (kedua mask awal salah), serta menulis Pembahasan (termasuk perbandingan BALD-SAM) & keterbatasan. |
+| **Presentasi** | Menjelaskan desain eksperimen, split COCO, hasil uji kuantitatif, & kesimpulan hipotesis. | Mendemokan/menjelaskan alur kode SAM 2, pengaturan FP32 Colab, & modul perbaikan + ablasi. | Menjelaskan temuan literatur, analisis kualitatif (berhasil/gagal), & perbedaan dengan BALD-SAM. |
 
 ---
 

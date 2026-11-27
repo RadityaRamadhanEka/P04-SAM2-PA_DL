@@ -6,13 +6,13 @@
 
 ---
 
-## Anggota Tim
+## Anggota Tim & Peran
 
-| No | Nama Lengkap | NIM |
-| :-: | :--- | :--- |
-| 1 | **Raditya Ramadhan Eka Widhianto** | `245150207111054` |
-| 2 | **Mochammad Fani Al Gibran** | `245150207111008` |
-| 3 | **Muhammad Sulthon Aulia Wijaya** | `245150207111103` |
+| No | Nama Lengkap | NIM | Fokus Peran *(Disepakati)* |
+| :-: | :--- | :--- | :--- |
+| 1 | **Raditya Ramadhan Eka Widhianto** | `245150207111054` | Lead Naskah, Repo, Pipeline COCO & Evaluasi |
+| 2 | **Mochammad Fani Al Gibran** | `245150207111008` | Google Colab & Teknis Implementasi SAM 2 |
+| 3 | **Muhammad Sulthon Aulia Wijaya** | `245150207111103` | Review Paper (SAM 2 & BALD-SAM), Analisis & Visualisasi |
 
 ---
 

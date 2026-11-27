@@ -22,11 +22,11 @@
 
 ### Daftar Anggota Tim (Maksimal 3 Orang)
 
-| No | Nama Lengkap | NIM | Peran / Kontribusi Utama *(Usulan Awal)* |
+| No | Nama Lengkap | NIM | Peran / Kontribusi Utama *(Disepakati Tim)* |
 | :-: | :--- | :--- | :--- |
 | 1 | **Raditya Ramadhan Eka Widhianto** | `245150207111054` | Lead Evaluasi, Pipeline Dataset COCO (Val/Test & Titik Awal), & Integrasi Naskah |
-| 2 | **Mochammad Fani Al Gibran** | `245150207111008` | Setup Colab SAM 2 Hiera Tiny, Baseline 1-Titik, & Modul Perbaikan Modular (Toggleable) |
-| 3 | **Muhammad Sulthon Aulia Wijaya** | `245150207111103` | Kajian Literatur (SAM 2 & BALD-SAM), Analisis Metrik, & Visualisasi Contoh Berhasil/Gagal |
+| 2 | **Mochammad Fani Al Gibran** | `245150207111008` | Google Colab & Teknis SAM 2 (Smoke Test, Baseline 1-Titik, & Modul Perbaikan Toggleable) |
+| 3 | **Muhammad Sulthon Aulia Wijaya** | `245150207111103` | Review Paper & Literatur (SAM 2 & BALD-SAM), Analisis Metrik/Kualitatif, & Visualisasi Berhasil/Gagal |
 
 ---
 
