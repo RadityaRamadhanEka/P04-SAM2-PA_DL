@@ -1,0 +1,17 @@
+{
+  "source_annotations": "instances_val2017.json",
+  "seed": 42,
+  "min_area": 1024.0,
+  "max_per_image": 3,
+  "p1_method": "euclidean_distance_transform_argmax",
+  "val": {
+    "num_objects": 100,
+    "num_images": 39,
+    "num_categories": 33
+  },
+  "test": {
+    "num_objects": 300,
+    "num_images": 126,
+    "num_categories": 63
+  }
+}
