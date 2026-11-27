@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+
+# Model checkpoints & weights (unduh di Colab / Drive)
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+checkpoints/
+
+# Datasets & archives (COCO dll. jangan di-commit ke Git)
+data/
+datasets/
+coco/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+
+# Environment & OS
+.env
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
