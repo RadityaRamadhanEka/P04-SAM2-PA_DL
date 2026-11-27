@@ -1,7 +1,10 @@
 # Breakdown Progres Tahap 1 — Pendahuluan (Paket P04 · SAM 2)
 
 > **Dokumen Acuan**: [BRIEFING_PROYEK_AKHIR.md](./BRIEFING_PROYEK_AKHIR.md) · [BRIEFING_P04_SAM2.md](./BRIEFING_P04_SAM2.md)  
-> **Laman Tugas Resmi**: [Panduan Proyek Akhir Deep Learning S1 Kelas A](https://brone.ub.ac.id/mod/page/view.php?id=246059)
+> **Laman Tugas Resmi**: [Panduan Proyek Akhir Deep Learning S1 Kelas A](https://brone.ub.ac.id/mod/page/view.php?id=246059)  
+> **Paper Asli SAM 2**: https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf  
+> **Repo GitHub SAM 2**: https://github.com/facebookresearch/sam2  
+> **Contoh Kode (`image_predictor_example.ipynb`)**: https://github.com/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb
 
 ---
 

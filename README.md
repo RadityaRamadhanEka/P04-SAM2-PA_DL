@@ -53,8 +53,9 @@
 
 ## Tautan Resmi Paket P04
 
-- **Paper Asli SAM 2**: [OpenReview PDF](https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf)
-- **Repositori Resmi**: [facebookresearch/sam2](https://github.com/facebookresearch/sam2)
-- **Notebook Resmi di Colab**: [`image_predictor_example.ipynb`](https://colab.research.google.com/github/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb)
+- **Paper Asli SAM 2**: [OpenReview PDF](https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf) — https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf
+- **Repositori GitHub SAM 2**: [facebookresearch/sam2](https://github.com/facebookresearch/sam2) — https://github.com/facebookresearch/sam2
+- **Contoh Kode (`image_predictor_example.ipynb` · GitHub)**: [notebooks/image_predictor_example.ipynb](https://github.com/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb) — https://github.com/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb
+- **Notebook Resmi di Google Colab**: [Buka di Colab](https://colab.research.google.com/github/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb)
 - **Checkpoint Hiera Tiny**: [`sam2_hiera_tiny.pt`](https://dl.fbaipublicfiles.com/segment_anything_2/072824/sam2_hiera_tiny.pt)
 - **Pembanding Pembahasan**: [Pracetak BALD-SAM](https://arxiv.org/abs/2603.10828)
