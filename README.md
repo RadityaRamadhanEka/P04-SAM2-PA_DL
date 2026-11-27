@@ -19,8 +19,10 @@
 ## Dokumen Briefing & Panduan Tim
 
 1. **[BRIEFING_P04_SAM2.md](./BRIEFING_P04_SAM2.md)** — Briefing teknis & operasional khusus Paket P04 (mekanisme perbaikan, desain eksperimen COCO di Colab, pembagian tugas 3 anggota, dan roadmap 3 minggu).
-2. **[TAHAP1_BREAKDOWN_PENDAHULUAN.md](./TAHAP1_BREAKDOWN_PENDAHULUAN.md)** — Breakdown progres **Tahap 1 · Pendahuluan** (tenggat **Selasa, 1 Des 2026, 23.59 WIB**), struktur 6 blok pendahuluan, daftar pustaka, timeline 4 hari, dan checklist QC.
-3. **[BRIEFING_PROYEK_AKHIR.md](./BRIEFING_PROYEK_AKHIR.md)** — Ringkasan lengkap panduan resmi Proyek Akhir Kelas A, rubrik 100 poin, ketentuan eksperimen, serta daftar seluruh paket `P01`–`P15`.
+2. **[TAHAP1_BREAKDOWN_PENDAHULUAN.md](./TAHAP1_BREAKDOWN_PENDAHULUAN.md)** — Breakdown progres **Tahap 1 · Pendahuluan** (tenggat **Selasa, 1 Des 2026, 23.59 WIB · 15 poin**).
+3. **[TAHAP2_BREAKDOWN_METODE_HASIL_AWAL.md](./TAHAP2_BREAKDOWN_METODE_HASIL_AWAL.md)** — Breakdown progres **Tahap 2 · Metode & Hasil Awal** (tenggat **Selasa, 8 Des 2026, 23.59 WIB · 30 poin**).
+4. **[TAHAP3_BREAKDOWN_PAPER_LENGKAP.md](./TAHAP3_BREAKDOWN_PAPER_LENGKAP.md)** — Breakdown progres **Tahap 3 · Paper Lengkap & Kode Akhir** (tenggat **Selasa, 15 Des 2026, 23.59 WIB · 55 poin**).
+5. **[BRIEFING_PROYEK_AKHIR.md](./BRIEFING_PROYEK_AKHIR.md)** — Ringkasan lengkap panduan resmi Proyek Akhir Kelas A, rubrik 100 poin, ketentuan eksperimen, serta daftar seluruh paket `P01`–`P15`.
 
 ---
 
@@ -43,6 +45,8 @@
 ├── BRIEFING_PROYEK_AKHIR.md
 ├── BRIEFING_P04_SAM2.md
 ├── TAHAP1_BREAKDOWN_PENDAHULUAN.md
+├── TAHAP2_BREAKDOWN_METODE_HASIL_AWAL.md
+├── TAHAP3_BREAKDOWN_PAPER_LENGKAP.md
 ├── configs/        # Daftar sampel COCO (samples_val.json, samples_test.json) & titik awal p1
 ├── notebooks/      # Notebook Google Colab (smoke test & evaluasi COCO)
 ├── results/        # Log CSV per objek & gambar visualisasi berhasil/gagal
