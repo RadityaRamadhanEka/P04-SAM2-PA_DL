@@ -57,8 +57,9 @@
 
 ---
 
-## Tautan Resmi Paket P04
+## Tautan Penting Tim & Paket P04
 
+- **Google Docs Naskah Paper Tim (IEEE 2-Kolom)**: [Proyek Akhir Deep Learning (Kelas A) - P04 SAM 2](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit?usp=drivesdk) — https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit?usp=drivesdk
 - **Paper Asli SAM 2**: [OpenReview PDF](https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf) — https://openreview.net/pdf/7c41968163abe4e3700e3e3a15174a9d679fcd52.pdf
 - **Repositori GitHub SAM 2**: [facebookresearch/sam2](https://github.com/facebookresearch/sam2) — https://github.com/facebookresearch/sam2
 - **Contoh Kode (`image_predictor_example.ipynb` · GitHub)**: [notebooks/image_predictor_example.ipynb](https://github.com/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb) — https://github.com/facebookresearch/sam2/blob/main/notebooks/image_predictor_example.ipynb

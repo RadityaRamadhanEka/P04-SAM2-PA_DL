@@ -17,7 +17,9 @@
 | **Judul Paper Utama** | *SAM 2: Segment Anything in Images and Videos* (ICLR 2025) |
 | **Judul Naskah Proyek** | `[Menyusul saat penyusunan draf Tahap 1]` |
 | **Perangkat Utama** | Google Colab (GPU gratis — mode FP32 tanpa `autocast` BF16 jika GPU tidak mendukung BF16) |
-| **Tautan Repo / Colab Tim** | `[Isi setelah repo/notebook tim dibuat]` |
+| **Format Naskah** | Template **IEEE Conference 2-Kolom** (A4, Times New Roman 10 pt) |
+| **Google Docs Naskah Tim** | [Proyek Akhir Deep Learning (Kelas A) - P04 SAM 2](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit?usp=drivesdk) |
+| **Tautan Repo / Colab Tim** | `[Isi setelah notebook Colab tim dibuat]` |
 | **Target Tim** | Prioritas nilai maksimal mata kuliah (100 poin sesuai rubrik), dengan dokumentasi & eksperimen rapi agar siap dikembangkan menuju publikasi bila hasil menjanjikan. |
 
 ### Daftar Anggota Tim (Maksimal 3 Orang)
