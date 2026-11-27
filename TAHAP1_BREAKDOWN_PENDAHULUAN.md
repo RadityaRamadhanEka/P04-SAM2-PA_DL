@@ -16,7 +16,7 @@
 | **Tenggat Pengumpulan** | **Selasa, 1 Desember 2026, 23.59 WIB** *(tersisa ±4 hari dari 27 November 2026)* |
 | **Bobot Nilai** | **15 poin** *(dari total 100 poin proyek)* |
 | **Rubrik Penilaian Tahap 1** | *"Masalah dan konteks paper dijelaskan secara tepat. Keterbatasan, tujuan, dan hipotesis terhubung dengan perbaikan pada paket."* |
-| **Format Berkas** | **1 file PDF** dengan template paper ilmiah bebas *(disarankan langsung memilih satu template tetap — misal IEEE 2-kolom di LaTeX/Overleaf atau Word/Google Docs — yang dipakai terus hingga Tahap 3)* |
+| **Format Berkas** | **1 file PDF** menggunakan template **IEEE Conference 2-Kolom** (A4, Times New Roman 10 pt, heading `I. PENDAHULUAN` & `DAFTAR PUSTAKA`, sitasi `[1]–[4]`) di [Google Docs Tim](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit) — dokumen yang sama dipakai terus hingga Tahap 3. |
 | **Mekanisme Unggah** | Diunggah oleh **1 perwakilan tim** |
 | **Identitas Wajib di Halaman 1** | 1. **Judul paper** tim<br>2. **Kode paket**: `P04`<br>3. **Nama lengkap & NIM seluruh anggota**:<br>&nbsp;&nbsp;&nbsp;• Raditya Ramadhan Eka Widhianto (`245150207111054`)<br>&nbsp;&nbsp;&nbsp;• Mochammad Fani Al Gibran (`245150207111008`)<br>&nbsp;&nbsp;&nbsp;• Muhammad Sulthon Aulia Wijaya (`245150207111103`) |
 

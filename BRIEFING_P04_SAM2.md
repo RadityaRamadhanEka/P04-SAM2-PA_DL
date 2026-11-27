@@ -15,6 +15,8 @@
 | **Anggota 2** | **Mochammad Fani Al Gibran** (`245150207111008`) |
 | **Anggota 3** | **Muhammad Sulthon Aulia Wijaya** (`245150207111103`) |
 | **Lingkungan Komputasi** | **Google Colab (GPU gratis)** — mode **FP32** (nonaktifkan `autocast` BF16 bila GPU Colab tidak mendukung BF16) |
+| **Format Naskah** | Template **IEEE Conference 2-Kolom** (A4, Times New Roman 10 pt, heading Romawi `I.` / `II.` / `III.`, sitasi `[1]–[4]`) |
+| **Google Docs Tim** | [Proyek Akhir Deep Learning (Kelas A) - P04 SAM 2](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit) |
 | **Model & Konfigurasi** | `configs/sam2/sam2_hiera_t.yaml` + checkpoint **`sam2_hiera_tiny.pt`** |
 | **Dataset Evaluasi** | Subset **COCO** (memakai mask anotasi acuan / *ground truth* untuk menghasilkan titik awal & menghitung IoU) |
 | **Strategi Target** | **Prioritas 1**: Nilai maksimal mata kuliah (100 poin sesuai rubrik 3 tahap).<br>**Prioritas 2**: Struktur eksperimen, pencatatan hasil per objek, dan kajian literatur dirapikan sejak awal agar siap dikembangkan ke publikasi jika hasilnya menjanjikan. |

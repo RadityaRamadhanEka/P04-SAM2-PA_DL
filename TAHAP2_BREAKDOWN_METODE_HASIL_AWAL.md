@@ -13,7 +13,7 @@
 | **Tenggat Pengumpulan** | **Selasa, 8 Desember 2026, 23.59 WIB** *(Minggu 2)* |
 | **Bobot Nilai** | **30 poin** *(20 poin Pembanding Asli + 10 poin Prototipe Perbaikan)* |
 | **Rubrik Penilaian Tahap 2** | • **Pembanding asli (20 poin)**: *"Kode berjalan, metrik baseline dicatat, dan pengaturan eksperimen dapat dilacak."*<br>• **Prototipe perbaikan (10 poin)**: *"Perubahan utama sudah diterapkan dan menghasilkan keluaran awal pada validasi."* |
-| **Format Berkas** | **1 file PDF** lanjutan dari draf Tahap 1 + **tautan repositori yang dapat diakses dosen di dalam paper** *(atau unggah kode dalam 1 file ZIP)* + **perintah untuk menjalankan kode**. |
+| **Format Berkas** | **1 file PDF** lanjutan dari draf Tahap 1 (template **IEEE 2-Kolom** di [Google Docs Tim](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit), melanjutkan heading `II. METODE` & `III. HASIL AWAL`) + **tautan repositori yang dapat diakses dosen di dalam paper** *(atau unggah kode dalam 1 file ZIP)* + **perintah untuk menjalankan kode**. |
 | **Mekanisme Unggah** | Diunggah oleh **1 perwakilan tim** |
 | **Identitas Wajib di Paper** | Judul paper, kode paket (`P04`), nama lengkap & NIM seluruh anggota (`245150207111054`, `245150207111008`, `245150207111103`). |
 

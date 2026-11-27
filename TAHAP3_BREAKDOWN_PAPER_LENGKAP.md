@@ -13,7 +13,7 @@
 | **Tenggat Pengumpulan** | **Selasa, 15 Desember 2026, 23.59 WIB** *(Minggu 3 / Final)* |
 | **Bobot Nilai** | **55 poin** *(15 poin Implementasi Akhir + 25 poin Bukti & Analisis + 15 poin Dokumentasi & Presentasi)* |
 | **Rubrik Penilaian Tahap 3** | • **Implementasi akhir (15 poin)**: *"Implementasi sesuai paket, dapat dijalankan, dan dapat dibandingkan dengan metode asli."*<br>• **Bukti dan analisis (25 poin)**: *"Data uji terpisah, pembanding adil, uji komponen, serta analisis biaya dan kegagalan."*<br>• **Dokumentasi dan presentasi (15 poin)**: *"Langkah reproduksi jelas dan setiap anggota memahami kontribusinya."* |
-| **Format Berkas** | **1 file PDF paper lengkap** + **kode akhir** lewat tautan repositori yang dapat diakses dosen di dalam paper *(atau 1 file ZIP)* + **petunjuk lengkap untuk mengulang eksperimen**. |
+| **Format Berkas** | **1 file PDF paper lengkap** (template **IEEE 2-Kolom** di [Google Docs Tim](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit): `Abstrak`, `I. PENDAHULUAN`, `II. METODE`, `III. HASIL`, `IV. PEMBAHASAN`, `V. KESIMPULAN`, `KONTRIBUSI ANGGOTA`, `DAFTAR PUSTAKA`) + **kode akhir** lewat tautan repositori yang dapat diakses dosen di dalam paper *(atau 1 file ZIP)* + **petunjuk lengkap untuk mengulang eksperimen**. |
 | **Mekanisme Unggah** | Diunggah oleh **1 perwakilan tim** |
 | **Identitas Wajib di Paper** | Judul paper, kode paket (`P04`), nama lengkap & NIM seluruh anggota (`245150207111054`, `245150207111008`, `245150207111103`), serta **kontribusi setiap anggota**. |
 

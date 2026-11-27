@@ -2,6 +2,8 @@
 
 > **Perbaikan**: Penentuan Titik Tambahan Otomatis dari Area Kesepakatan Dua Mask Teratas (*Consensus-Guided 2nd Point*) pada **SAM 2 (`sam2_hiera_tiny`)**  
 > **Lingkungan Utama**: Google Colab (GPU) · Mode FP32  
+> **Format Paper**: Template **IEEE Conference 2-Kolom** (A4, Times New Roman 10 pt)  
+> **Google Docs Tim**: [Buka Naskah Paper (Google Docs)](https://docs.google.com/document/d/1yhD0Zz_ED-kEKbYtkoU5JcAHJr4lLNlThJ2I3ObtyGk/edit)  
 > **Periode**: 24 November – 15 Desember 2026
 
 ---
