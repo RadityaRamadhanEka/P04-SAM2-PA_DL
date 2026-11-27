@@ -375,6 +375,6 @@ Jika hasil eksperimen menjanjikan dan tim berminat mengembangkan naskah menuju p
 - [x] Bentuk tim (3 orang: Raditya, Gibran, Sulthon) dan inventarisasi perangkat (**Google Colab GPU gratis**).
 - [x] Tentukan pilihan paket (**P04 · SAM 2**) — lanjutkan rincian kerja di [BRIEFING_P04_SAM2.md](./BRIEFING_P04_SAM2.md).
 - [x] Pastikan paket **P04** belum diambil tim lain di daftar Kelas A dan laporkan kode paket serta nama/NIM anggota ke **koordinator kelas**.
-- [ ] Buka notebook contoh penulis di Colab, siapkan environment (FP32 jika tanpa BF16), dan verifikasi **1 contoh gambar + 1 titik berjalan**.
-- [ ] Catat detail awal (commit repo `sam2`, versi pustaka, checkpoint `sam2_hiera_tiny.pt`, jenis GPU Colab) untuk bagian Metode.
+- [x] Buka notebook contoh penulis di Colab, siapkan environment (FP32 pada Tesla T4, `autocast=False`), dan verifikasi **1 contoh gambar + 1 titik berjalan** (`truck.jpg`, skor `0.920`).
+- [x] Catat detail awal (commit repo `sam2`: `2b90b9f5ceec907a1c18123530e92e794ad901a4`, versi pustaka, checkpoint `sam2_hiera_tiny.pt`, Tesla T4) untuk bagian Metode.
 - [ ] Susun dan kumpulkan draf **Tahap 1 · Pendahuluan** sebelum **Selasa, 1 Desember 2026 pukul 23.59 WIB** (lihat rincian di [TAHAP1_BREAKDOWN_PENDAHULUAN.md](./TAHAP1_BREAKDOWN_PENDAHULUAN.md)).
